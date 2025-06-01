@@ -1,0 +1,4 @@
+fastapi==0.110.2
+uvicorn[standard]==0.29.0
+pydantic==2.7.1
+sqlite3  # Optionnel : fourni avec Python, pas besoin d'installation via pip
